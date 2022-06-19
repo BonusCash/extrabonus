@@ -1,0 +1,13 @@
+<template>
+  <h1>profile</h1>
+</template>
+
+<script>
+export default {
+  name: "profile-view.component"
+};
+</script>
+
+<style scoped>
+
+</style>
