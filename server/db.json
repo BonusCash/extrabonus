@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Manuel",
+      "image": "doc1.jpg",
+      "email": "jack@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "Mike",
+      "image": "doc1.jpg",
+      "email": "j@gmail.com",
+      "password": "123"
+    }
+  ],
+  "bonosData": [
+    {
+      "id": 1,
+      "userId": 1,
+      "valorNominal": 10000,
+      "valorComercial": 12000,
+      "numAnos": 5,
+      "periodo": "trimestre",
+      "diasxPeriodo": 90,
+      "diasxAno": 360,
+      "numPeriodosxano": 4,
+      "numTotalPeriodos": 20,
+      "impuestoRenta": 0.30,
+      "primaAlVcto": 0.01,
+      "estructuracion": 0.00450,
+      "colocacion": 0.00250,
+      "flotacion": 0.00150,
+      "cavali": 0.00500,
+      "TEAdeCupon": 0.0750
+    }
+  ]
+}
